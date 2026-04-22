@@ -2,6 +2,8 @@
 
 ## Release the Data
 
+Due to GitHub's size limit, we zip some files before uploading.
+
 Go to:
 
 ```
